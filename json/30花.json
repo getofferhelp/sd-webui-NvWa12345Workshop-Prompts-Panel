@@ -1,0 +1,46 @@
+﻿{
+	"花": {
+		"玫瑰": "rose",
+		"百合": "lily",
+		"水仙": "daffodil",
+		"金银花": "honeysuckle",
+		"莲花": "lotus",
+		"牵牛花": "morning glory",
+		"雏菊": "daisy",
+		"向日葵": "sunflower",
+		"芍药": "paeonia",
+		"蝴蝶兰": "orchid",
+		"樱花": "sakura",
+		"铃兰": "lily of the valley"
+	},
+	"中国": {
+		"牡丹": "peony",
+		"梅花": "plum blossom",
+		"菊花": "chrysanthemum",
+		"睡莲": "water lily",
+		"王莲": "royal water lily",
+		"茉莉花": "jasmine",
+		"桃花": "peach blossom",
+		"杜鹃花": "azalea",
+		"芍药": "paeonia",
+		"蝴蝶兰": "butterfly orchid",
+		"红豆杉": "dawn redwood",
+		"紫薇": "Chinese wisteria",
+		"桂花": "osmanthus",
+		"茶花": "camellia",
+		"玉兰": "magnolia",
+		"梨花": "Chinese pear blossom",
+		"银杏": "ginkgo"
+	},
+	"法国": {
+		"郁金香": "tulip",
+		"鸢尾花": "iris",
+		"康乃馨": "carnation",
+		"薰衣草": "lavender",
+		"风信子": "hyacinth",
+		"马蹄莲": "water lily",
+		"紫罗兰": "violet",
+		"金盏菊": "marigold",
+		"风铃草": "bluebell"
+	}
+}

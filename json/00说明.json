@@ -1,0 +1,50 @@
+﻿{
+	"关于女娲12345作坊：": {
+		"女娲12345作坊1.0版本基于OldSix-SixGod项目": "(extremely detailed CG unity 8k wallpaper),(masterpiece), (best quality)",
+		"原提示词词库主要参考了另一位作者路过银河的提示词，": " (ultra-detailed), (best illustration),(best shadow)",
+		"我对提示词的分类结构做了调整和内容添加": "(an extremely delicate and beautiful), dynamic angle, floating",
+		"再蹭一下女娲和五更萌瞳的热度": " finely detail, (bloom), (shine), glinting stars, (classic） ",
+		"就有了这个【女娲12345作坊-提示词快捷面板】项目": "（ illustration）,（ painting）"
+	},
+
+
+	"使用方式": {
+		"点开任意的小窗口": "（ sketch）,beautiful face, ",
+		"比如：起手、环境": "extremely_beautiful_detailed_anime_face",
+		"然后左键点击任意标签": "Beautiful detailed girl",
+		"就会出现正向提示词": "(andetailedorgandiedress),cape",
+		"右键点击就会出现负面提示词": "light_green_hair"
+	},
+
+	"自定义修改词库": {
+		"在文件夹-extensions->": "very_long_hair",
+		"SD-WebUI-NvWa12345Workshop-Prompts-Panel->": "small_chest,extremely delicate and beautiful girls",
+		"json文件夹中，打开具体的json文档": "beautiful detailed eyes,",
+		"然后参照已有的词库文档按照格式修改就可以了": "dishevelled hair,Hazy fog, mist",
+		"注意：双引号、冒号、逗号还有大括号都要用英文格式的": "（forest）,feather,nature,(sunlight), fairyland,",
+		"(左键点亮前面所有按钮-右键点击本按钮有惊喜)": "logo,text,badhandv4,EasyNegative,ng_deepnegative_v1_75t,rev2-badprompt,verybadimagenegative_v1.3,negative_hand-neg,mutated hands and fingers,poorly drawn face,extra limb,missing limb,disconnected limbs,malformed hands,ugly,"
+	},
+
+
+
+
+	"致谢：": {
+		"感谢StabilityAI的开源": "Thank you,StabilityAI ",
+		"感谢赛博佛祖秋叶大佬以及其他开源贡献者": "Thank you, QiuYe and all contributors",
+		"感谢OldSix项目的开发者thisjam和提供了初版提示词词库的路过银河": "Thank you, thisjam and LuGuoYinHe"
+	},
+
+	"我有个大胆(划掉)新的提示词": {
+
+		"真嘟假嘟，来啊来啊，一起丰富这个提示词库！": "联系方式",
+		"没有公众号，就弄个QQ群吧：655282448": "655282448",
+		"接下来准备把自己在看的资料都好好整理一下": "有人感兴趣吗",
+		"有小伙伴感兴趣一起搞起来嘛？": "期待有人来啊"
+
+	}
+
+
+
+} 
+
+
